@@ -11,8 +11,10 @@ This is a list of resources for using coding in science research
 
 #machinelearning
 
-(https://experiments.withgoogle.com/collection/ai)
-(https://demo.mr.affectiva.com/)
+(https://experiments.withgoogle.com/collection/ai) --
+
+(https://demo.mr.affectiva.com/)--
+
 (http://deepangel.media.mit.edu/)
 (https://mitmedialab.github.io/generative-text/)
 (https://ganimals.media.mit.edu/discover_em)
